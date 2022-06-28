@@ -1,0 +1,4 @@
+#Mon Jun 20 15:00:18 ICT 2022
+base.0=D\:\\MEGA Cloud Drive\\flutter-practice\\wisata_rajaampat\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
